@@ -42,7 +42,7 @@ function motorcycle() {
 function haveWeMet() {
     let hello = prompt("Have you ever been to my site before?");
     let answer = hello.charAt(0).toLowerCase();
-    if ( answer ==== "y" ) {
+    if ( answer === "y" ) {
         alert("Welcome back! Its good to see you're here again.")
         console.log("Welcome back! Its good to see you're here again.");
     } else {
