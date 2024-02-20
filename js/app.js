@@ -62,3 +62,9 @@ function fullHouse() {
         alert("Totally understandable. They are alot of extra work and MESSY!")
     }
 }
+
+
+function whoDis() {
+    var userName = prompt("What is your name?");
+    alert("Hi " + userName + ", it's good to see you today. I hope this message finds you doing well.");
+}
