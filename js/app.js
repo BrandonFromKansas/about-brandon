@@ -1,6 +1,6 @@
 
 
-function getAge() {
+//function getAge() {
     let age = prompt("Are you over 18?");
     let answer = age.charAt(0).toLowerCase();
     if( answer === "y" ) {
@@ -13,7 +13,7 @@ function getAge() {
 }
 
 
-function football() {
+//function football() {
     let sport = prompt("Have you ever played football?");
     let answer = sport.charAt(0).toLowerCase();
     if ( answer === "y" ) {
@@ -26,7 +26,7 @@ function football() {
 }
 
 
-function motorcycle() {
+//function motorcycle() {
     let ride = prompt("Have you ever rode on a motorcycle?");
     let answer = ride.charAt(0).toLowerCase();
     if ( answer === "y" ) {
@@ -39,7 +39,7 @@ function motorcycle() {
 }
 
 
-function haveWeMet() {
+//function haveWeMet() {
     let hello = prompt("Have you ever been to my site before?");
     let answer = hello.charAt(0).toLowerCase();
     if ( answer === "y" ) {
@@ -52,7 +52,7 @@ function haveWeMet() {
 }
 
 
-function fullHouse() {
+//function fullHouse() {
     let pets = prompt("Do you own any pets?");
     let answer = pets.charAt(0).toLowerCase();
     if ( answer === "y" ) {
@@ -64,7 +64,7 @@ function fullHouse() {
 }
 
 
-function whoDis() {
+//function whoDis() {
     var userName = prompt("What is your name?");
     alert("Hi " + userName + ", it's good to see you today. I hope this message finds you doing well.");
 }
