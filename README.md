@@ -1,7 +1,7 @@
 # About Brandon Project
 
-1. GitHub Repo link goes here
-2. Deployed site link goes here
+1. [GitHub Repo](https://github.com/BrandonFromKansas/about-brandon)
+2. [Deploy the site!](https://brandonfromkansas.github.io/about-brandon/index)
 
 
 ## Lighthouse Reports
