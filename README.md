@@ -1,4 +1,5 @@
 # About Brandon Project
+`This project has been a collaboration between myself and Demarquies Jolley.`
 
 1. [GitHub Repo](https://github.com/BrandonFromKansas/about-brandon)
 2. [Deploy the site!](https://brandonfromkansas.github.io/about-brandon/index)
